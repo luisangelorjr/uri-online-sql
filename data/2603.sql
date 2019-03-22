@@ -22,3 +22,7 @@ VALUES
   
   /*  Execute this query to drop the tables */
   -- DROP TABLE customers; --
+ 
+ --- ANSWER
+  
+  SELECT name,street FROM customers WHERE city='Porto Alegre';

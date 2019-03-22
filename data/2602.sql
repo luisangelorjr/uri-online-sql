@@ -23,3 +23,6 @@ VALUES
   
   /*  Execute this query to drop the tables */
   -- DROP TABLE customers; --
+  
+  --- ANSWER
+  SELECT name FROM customers WHERE state = 'RS'
