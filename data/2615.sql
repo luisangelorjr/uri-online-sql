@@ -25,5 +25,4 @@ VALUES
 -- DROP TABLE customers; --
 
 --- ANSWERS
-SELECT * FROM CUSTOMERS;
 SELECT DISTINCT city FROM customers ;
