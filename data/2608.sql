@@ -18,3 +18,4 @@ VALUES
   -- DROP TABLE products; --
      
 --- ANSWER
+SELECT MAX(price), MIN(price) FROM products;
