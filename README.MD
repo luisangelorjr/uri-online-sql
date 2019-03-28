@@ -6,7 +6,7 @@ Online](https://www.urionlinejudge.com.br/judge/en/profile/267988)
 
 ## Answers Accepted
 
-### 08 of 25 Questions
+### 09 of 25 Questions
 
 - [x] [2602](https://www.urionlinejudge.com.br/judge/en/runs/code/11629169)
 - [x] [2603](https://www.urionlinejudge.com.br/judge/en/runs/code/12565785)
@@ -15,6 +15,7 @@ Online](https://www.urionlinejudge.com.br/judge/en/profile/267988)
 - [x] [2608](https://www.urionlinejudge.com.br/judge/en/runs/code/13400205)
 - [x] [2615](https://www.urionlinejudge.com.br/judge/en/runs/code/13304163)
 - [x] [2617](https://www.urionlinejudge.com.br/judge/en/runs/code/13415480)
+- [x] [2618](https://www.urionlinejudge.com.br/judge/en/runs/code/13416925)
 - [x] [2622](https://www.urionlinejudge.com.br/judge/en/runs/code/13303981)
 
 ### Tried
