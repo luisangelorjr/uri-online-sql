@@ -39,3 +39,13 @@ VALUES
   
   /*  Execute this query to drop the tables */
   -- DROP TABLE products, providers; --
+
+---ANSWER
+SELECT products.name, providers.name FROM PRODUCTS
+INNER JOIN providers ON providers.id = products.id_providers
+WHERE providers.name = 'Ajax SA';
+
+--- ANSWER NOT ACCEPTED  
+SELECT products.name, providers.name FROM PRODUCTS
+INNER JOIN providers ON providers.id = products.id_providers
+WHERE providers.id = 1;
